@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Application01<wiproDay1>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.phase2.wiproDay1.Application01",
+      "projectName": "wiproDay1",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
